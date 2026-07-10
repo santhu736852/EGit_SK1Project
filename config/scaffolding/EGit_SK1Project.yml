@@ -6,7 +6,7 @@ packages:
   gitServerName: GH_SK
   gitUrl: https://github.com/santhu736852
   gitUsername: santhu736852
-  gitBranch: main
+  gitBranch: test1B1
 - name: Package3
   gitServerName: GH_SK
   gitUrl: https://github.com/santhu736852
